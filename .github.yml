@@ -1,0 +1,9 @@
+---
+fullname: jvautier/docker-compose-taiga
+description: Docker-compose development stack with taiga.
+tags:
+  - development
+  - docker
+  - docker-compose
+  - taiga
+github: {}
